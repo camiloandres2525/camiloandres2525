@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, me encuentro de busqueda de empleo remoto como desarrollador Python Junior.
+Hola, me encuentro en busqueda de empleo remoto como desarrollador Python Junior.
 
 
 ## 🌐 Socials:

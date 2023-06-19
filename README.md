@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente me encuentro de busqueda de empleo remoto como desarrollador Python.
+Hola, me encuentro de busqueda de empleo remoto como desarrollador Python.
 
 
 ## 🌐 Socials:
